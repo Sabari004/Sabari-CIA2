@@ -1,0 +1,11 @@
+.Container{
+    padding: 100px;
+    text-align: center;
+    border: 2px solid black;
+    margin: 30px;
+    border-radius: 30px;
+    
+}
+h1{
+    text-align: center;
+}
